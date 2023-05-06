@@ -1,0 +1,20 @@
+Could not do PostLoadInit on RimWorld.Pawn_TrainingTracker: System.NullReferenceException: Object reference not set to an instance of an object
+  at RimWorld.Pawn_TrainingTracker.CanAssignToTrain (RimWorld.TrainableDef td, System.Boolean& visible) [0x00169] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.Pawn_TrainingTracker.CanAssignToTrain (RimWorld.TrainableDef td) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.BackCompatibility.PawnTrainingTrackerPostLoadInit (RimWorld.Pawn_TrainingTracker tracker, Verse.DefMap`2[RimWorld.TrainableDef,System.Boolean]& wantedTrainables, Verse.DefMap`2[RimWorld.TrainableDef,System.Int32]& steps, Verse.DefMap`2[RimWorld.TrainableDef,System.Boolean]& learned) [0x00082] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.Pawn_TrainingTracker.ExposeData () [0x00059] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PostLoadIniter.DoAllPostLoadInits () [0x00032] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.PostLoadIniter:DoAllPostLoadInits ()
+Verse.ScribeLoader:FinalizeLoading ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch1 (Verse.Game)
+Verse.SavedGameLoaderNow:LoadGameFromSaveFileNow (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
