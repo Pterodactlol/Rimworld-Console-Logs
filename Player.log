@@ -1,0 +1,1011 @@
+Mono path[0] = 'C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Games/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7168
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.097 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 0.559400 ms
+Command line arguments: -popupwindow
+RimWorld 1.4.3704 rev896
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428C3F830.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942894B110.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428D241B0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428BF7A40.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428D81000.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428D86010.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428D93C30.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428D97E40.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428DCFE60.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E08FB0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E0C9D0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E10FD0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E341F0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E50E10.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E55440.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E56A50.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E58060.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E6C880.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428E776A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428FFC010.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429000C30.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942910F060.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429114A80.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291230A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291406E0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429143B00.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429F0E040.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429198020.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291A0C30.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291AC860.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291AF870.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291C7080.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291D18A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294291F0EB0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294292DC2F0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429323730.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429188DC0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294293EF340.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942940BB60.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942947E010.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294294A6540.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942959ED80.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294295A7390.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294295D70C0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942960E700.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429614D10.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942962CC40.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429665390.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029428B1CEA0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942966B5B0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942966F9C0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294289460D0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294296797E0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942967C1F0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294296D0550.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294296E5970.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429707B90.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294297B9620.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294297D6460.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294297DA470.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294297F80A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294297FCCB0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294297FE6C0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429801AD0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000029429827610.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942985E340.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942987C160.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942989A580.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942989CB90.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294298A55A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A040080.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294298A71B0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A047E90.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A147AB0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A1584C0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A264700.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A26C710.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A273720.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000294289474E0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A2BF960.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A2C5780.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A3AA7A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A3C25C0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A3DBFF0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A3E0A00.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A3F8E20.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A3FF840.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A402650.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A4F0A80.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A4FE4A0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A502EC0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A5076E0.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A7B8F50.dll
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942A9C5190.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library C:/Games/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002942AF35D80.dll
+[HugsLib] early-initializing AllowTool
+[VanillaAchievementsExpanded] version 1.4.8315
+[RimHUD v1.12.1] Initialized
+Moody settings loaded
+[Interaction Bubbles v2.5] Initialized
+Dubs Skylight 1.5.2110
+GeneExtractorWeights loaded
+No cached setting found for AstraMechanicusHediffGiver, searching
+found setting found for AstraMechanicusHediffGiver
+No cached setting found for RemoveDupedAstraArmour, searching
+found setting found for RemoveDupedAstraArmour
+No cached setting found for ExpandAstraFactionArmouries, searching
+found setting found for ExpandAstraFactionArmouries
+No cached setting found for UseAstraCraftingtables, searching
+found setting found for UseAstraCraftingtables
+No cached setting found for RemoveDupedAstraWeapons, searching
+found setting found for RemoveDupedAstraWeapons
+No cached setting found for VanillaPiratePawnkinds, searching
+found setting found for VanillaPiratePawnkinds
+No cached setting found for VanillaDaemonicPiratePawnkinds, searching
+found setting found for VanillaDaemonicPiratePawnkinds
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+[MadSkills]: changed behavior of Great Memory trait.
+d3d11: failed to create 2D texture id=11581 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=11581 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=11583 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=11583 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=11751 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=11751 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=11769 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=11769 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Generated settings for 0 new factions, Total: 12
+[Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+Quarry:: Total 5 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble
+Translation data for language English has 1 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] Initialized 3 SettingsMenuDef(s) and found 0 unused key(s) from 0 mod(s)
+[XML Extensions] 1519 total patches run in 3001ms, 0 failed
+Wall Light: v1.4.8348.3000
+Wall Light - Replace Stuff compatibility initialized.
+LWM Update: stable(ish) 1.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, Shelf_WeaponRack, Shelf_RepairRack, VFES_AmmoCrate, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain, AG_AncientShelf, RimFridge_SingleRefrigerator, RimFridge_Refrigerator, RimFridge_QuadRefrigerator, RimFridge_SingleWallRefrigerator, RimFridge_WallRefrigerator, QRY_Platform, VNPE_NutrientPasteFeeder into Deep Storage
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+MVCF successfully applied 34 patches
+[UnlimitedHugs.HugsLib] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[OskarPotocki.VFECore] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[com.rimfridge.rimworld.mod] Patches on methods annotated as Obsolete were detected by HugsLib: RimWorld.FoodUtility.TryFindBestFoodSourceFor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+[HugsLib] initializing SearchAndDestroy, RunAndGun, Autopsy, Hospitality
+FactionDef OG_Ork_Tek_Faction must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Adeptus Mechanicus: Magos Xenobiologis. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef OG_Ork_Feral_Faction must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Adeptus Mechanicus: Magos Xenobiologis. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 0.393400 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 36755.
+Total: 394.472600 ms (FindLiveObjects: 1.368400 ms CreateObjectMapping: 2.611900 ms MarkObjects: 390.367500 ms  DeleteObjects: 0.124600 ms)
+
+Loading game from file Exploritas with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - UnlimitedHugs.HugsLib
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - imranfish.xmlextensions
+  - QX.AstraMilitarum
+  - QX.AstraMilitarum.Factions
+  - Ogliss.AdMech.Armoury
+  - Ogliss.AdMech.Xenobiologis
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VAPPE
+  - Cabbage.RimCities
+  - UnlimitedHugs.AllowTool
+  - PeteTimesSix.SimpleSidearms
+  - roolo.SearchAndDestroy
+  - roolo.RunAndGunContinued
+  - Jaxe.RimHUD
+  - GiantSpaceHamster.Moody
+  - Jaxe.Bubbles
+  - Uuugggg.ReplaceStuff
+  - Fluffy.ColonyManager
+  - Smuffle.HarvestOrgansPostMortem
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VFEArchitect
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VPsycastsE
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VChemfuelE
+  - vat.epoeforked
+  - vat.epoeforkedroyalty
+  - spoonshortage.ADogSaidAnimalProsthetics
+  - sarg.alphagenes
+  - VanillaExpanded.VGeneticsE
+  - VanillaExpanded.VGeneticsEMoreLabStuff
+  - ratys.rtfuse
+  - ratys.rtsolarflareshield
+  - dismarzero.VGP.VGPGardenMedicine
+  - Murmur.WallLight
+  - dracoix.doormat.r12a
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - Ogliss.TheWhiteCrayon.Quarry
+  - notfood.MendAndRecycle
+  - erdelf.MinifyEverything
+  - VanillaExpanded.VNutrientE
+  - Mlie.QuestionableEthicsEnhanced
+  - ratys.madskills
+  - Sea.ConsistentGeneInheritance
+  - Dubwise.DubsSkylights
+  - Mehni.PickUpAndHaul
+  - Fluffy.WorkTab
+  - Phonicmas.BiotechExpansionWarhammer40k
+  - DanielWedemeyer.GeneRipper
+  - DanielWedemeyer.GeneExtractorWeights
+  - Mlie.ProstheticNoMissingBodyParts
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - mute.vpesensitivity
+  - Grimm.Unlimited
+  - Orion.Hospitality
+Could not find think node with key 609489829 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Faction leader for Clade of Sirecaz is null. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 45261.
+Total: 637.579000 ms (FindLiveObjects: 1.497700 ms CreateObjectMapping: 3.330100 ms MarkObjects: 632.680200 ms  DeleteObjects: 0.070600 ms)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.GridsUtility.Fogged (Verse.IntVec3 c, Verse.Map map) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at AllowTool.Designator_HaulUrgently.ThingIsRelevant (Verse.Thing thing) [0x00015] in <d3e3fec3eced4dceb8190139680bcabd>:0 
+  at AllowTool.Designator_HaulUrgently.CanDesignateThing (Verse.Thing t) [0x00001] in <d3e3fec3eced4dceb8190139680bcabd>:0 
+  at (wrapper dynamic-method) Verse.Designator.Verse.Designator.CreateReverseDesignationGizmo_Patch1(Verse.Designator,Verse.Thing)
+  at (wrapper dynamic-method) RimWorld.InspectGizmoGrid.RimWorld.InspectGizmoGrid.DrawInspectGizmoGridFor_Patch0(System.Collections.Generic.IEnumerable`1<object>,Verse.Gizmo&) currentSelectable: null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ArgumentOutOfRangeException: Specified argument was out of the range of valid values.
+Parameter name: granulePos
+  at NVorbis.VorbisStreamDecoder.SeekTo (System.Int64 granulePos) [0x00044] in <6486cbdd6db640cb84f0641a9b81a532>:0 
+  at NVorbis.VorbisReader.set_DecodedTime (System.TimeSpan value) [0x00013] in <6486cbdd6db640cb84f0641a9b81a532>:0 
+  at NVorbis.NAudioSupport.VorbisWaveReader.set_Position (System.Int64 value) [0x0004a] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RuntimeAudioClipLoader.CustomAudioFileReader.set_Position (System.Int64 value) [0x0001e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at NAudio.Wave.WaveStream.Seek (System.Int64 offset, System.IO.SeekOrigin origin) [0x00003] in <fa168faf488c4ac38a7c7c759315a688>:0 
+  at RuntimeAudioClipLoader.Manager+<>c__DisplayClass12_0.<Load>b__1 (System.Int32 target) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at UnityEngine.AudioClip.InvokePCMSetPositionCallback_Internal (System.Int32 position) [0x0000e] in <639ea10cc9e64854b12b0c2b14d32a22>:0 
+ 
+(Filename: <6486cbdd6db640cb84f0641a9b81a532> Line: 0)
+
+[GeneExtractorWeights]: Initializing genes
+Failed to find a spectator spot for Agachio 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Latch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Ana 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Yoytt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Mister 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Madam 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Bywushark doing ThinkNode_DutyConstant with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Bywushark doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Bywushark doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Dala doing ThinkNode_DutyConstant with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Dala doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Dala doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wyn'wttul doing ThinkNode_DutyConstant with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wyn'wttul doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wyn'wttul doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Steven doing ThinkNode_DutyConstant with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Steven doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Steven doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Flo doing ThinkNode_DutyConstant with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Flo doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Flo doing ThinkNode_Duty with no duty. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Ash 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Marina 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Gallent Rik `Venus` 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Eyrerrosus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Latch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Latch starting job DoBill (Job_17418448) A=Thing_OG_Human_Mechanicus4763057 from JobGiver  while already having job DoBill (Job_17418445) A=Thing_OG_Human_Mechanicus4763057 B=Thing_MedicineIndustrial8392276 without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Flo starting job SpectateCeremony (Job_17418543) A=(60, 0, 211) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17418542) A=(60, 0, 211) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Yoytt starting job SpectateCeremony (Job_17418639) A=(61, 0, 213) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17418638) A=(61, 0, 213) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mister starting job SpectateCeremony (Job_17418712) A=(60, 0, 210) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17418711) A=(60, 0, 210) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Ana starting job SpectateCeremony (Job_17418818) A=(64, 0, 220) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17418817) A=(62, 0, 220) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Bywushark starting job SpectateCeremony (Job_17418897) A=(64, 0, 219) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17418896) A=(64, 0, 219) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Steven starting job SpectateCeremony (Job_17419104) A=(62, 0, 220) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17419103) A=(62, 0, 220) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Arcumonus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Buffalo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Wyn'wttul 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wyn'wttul starting job Train (Job_17419249) A=Thing_Elephant8220079 from JobGiver  while already having job Train (Job_17419246) A=Thing_Elephant8220079 without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Latch starting job SpectateCeremony (Job_17419643) A=(61, 0, 217) B=(63, 0, 225) from JobGiver  while already having job SpectateCeremony (Job_17419642) A=(61, 0, 217) B=(63, 0, 225) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Ash starting job SpectateCeremony (Job_17419716) A=(59, 0, 226) B=(63, 0, 225) C=Thing_Sarcophagus5526555 from JobGiver  while already having job SpectateCeremony (Job_17419715) A=(59, 0, 226) B=(63, 0, 225) C=Thing_Sarcophagus5526555 without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Mister 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Anastasia Greer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Ko Yasi 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Flo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Ana 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Steven 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Agachio 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Agachio starting job HaulToInventory (Job_17420128) B=(114, 0, 109) from JobGiver  while already having job HaulToInventory (Job_17420126) A=Thing_Meat_Elephant8371287 B=(112, 0, 123) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Gallent Rik `Venus` starting job SpectateCeremony (Job_17420394) A=(60, 0, 216) B=(63, 0, 225) from JobGiver  while already having job SpectateCeremony (Job_17420393) A=(60, 0, 216) B=(63, 0, 225) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Kinul 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Dala starting job SpectateCeremony (Job_17420630) A=(58, 0, 218) B=(63, 0, 225) from JobGiver  while already having job SpectateCeremony (Job_17420629) A=(58, 0, 218) B=(63, 0, 225) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Bywushark 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Ko Yasi starting job SpectateCeremony (Job_17420750) A=(61, 0, 217) B=(63, 0, 225) from JobGiver  while already having job SpectateCeremony (Job_17420749) A=(61, 0, 217) B=(63, 0, 225) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Madam 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Madam starting job Ingest (Job_17420892) A=Thing_NutrientPasteDispenser727456 from JobGiver  while already having job Ingest (Job_17420890) A=Thing_NutrientPasteDispenser727456 without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Upsilon-Lambda 52 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Yoytt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Tellex 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Eyrerrosus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Buffalo starting job SpectateCeremony (Job_17421004) A=(59, 0, 226) B=(63, 0, 225) C=Thing_Sarcophagus5526555 from JobGiver  while already having job SpectateCeremony (Job_17421003) A=(59, 0, 226) B=(63, 0, 225) C=Thing_Sarcophagus5526555 without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Agachio starting job SpectateCeremony (Job_17421507) A=(61, 0, 213) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17421506) A=(61, 0, 213) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Madam starting job SpectateCeremony (Job_17422000) A=(64, 0, 219) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17421999) A=(64, 0, 219) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Bywushark starting job SpectateCeremony (Job_17422162) A=(64, 0, 220) B=(64, 0, 224) from JobGiver  while already having job SpectateCeremony (Job_17422161) A=(64, 0, 220) B=(64, 0, 224) without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Arcumonus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Buffalo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Anastasia Greer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find a spectator spot for Wyn'wttul 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wyn'wttul starting job Ingest (Job_17422247) A=Thing_VBE_Tea8392081 from JobGiver  while already having job Ingest (Job_17422245) A=Thing_VBE_Tea8392081 without a specific job end condition. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception ticking Corpse_GR_Manalope8223730. Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at BEWH.HediffCompDaemonPrince.CorpseTick (Verse.Corpse __instance) [0x00008] in <48f5e44f71df40999fe008ad9c72a9a4>:0 
+  at (wrapper dynamic-method) Verse.Corpse.Verse.Corpse.TickRare_Patch1(Verse.Corpse)
+  at Verse.TickList.Tick () [0x0016b] in <95de19971c5d40878d8742747904cdcd>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[GeneExtractorWeights]: Initializing genes
+[GeneExtractorWeights]: Initializing genes
+Created 1 new pawns for Koni.
+Created 1 new pawns for Koni.
+Created 1 new pawns for Koni.
+Created 1 new pawns for Koni.
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(418) : Error executing m_FMODChannel->setFrequency(m_Pitch * m_DopplerPitch * m_BaseFrequency) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
+
+C:\buildslave\unity\build\Modules/Audio/Public/sound/SoundChannel.cpp(152) : Error executing m_FMODChannel->isPlaying(playing) (The specified channel has been reused to play another sound. ) 
+(Filename:  Line: 15)
